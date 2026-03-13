@@ -141,6 +141,10 @@ bool is_sensor_connected();
 ```
 - Returns `true` if the sensor is detected over I2C.
 
+## Deployment
+
+For instructions on integrating SensorHub with the Tiangong 2.0 Pro (天工2.0 Pro) humanoid robot and deploying a fine-tuned XR-1 policy model, see the [Tiangong 2.0 Pro Deployment Guide](deployment/TIANGONG_DEPLOYMENT.md).
+
 ## License
 This library is open-source and available under the MIT License.
 
